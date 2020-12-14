@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $INPUT_MY_NAME , my age is $INPUT_MY_AGE"
+sh -c "echo Hello world my name is $INPUT_MY_NAME , my age is $INPUT_myAge"
